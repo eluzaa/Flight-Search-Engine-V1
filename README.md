@@ -20,6 +20,9 @@ Welcome to **Aditya's Flight Scanner**, a simple yet powerful flight search engi
 ### 2. **Further Plans: Currently working, not pushed in repo**
 ![Further Plans](./Images/GenAi.jpg) <!-- Add link to further plans/improvements screenshot -->
 
+
+### 3. **Data Fetching: If API quota in not full then you will get data like this**
+![Interface](./Data.png)
 ---
 
 
