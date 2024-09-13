@@ -39,13 +39,6 @@ We want to use LLMs to make its interface like a chatbot, we are currently worki
 
 ---
 
-## 💡 Future Improvements in Action
-
-We are actively working on these improvements. Check out the progress below!
-
-![Future Plans Working](link_to_future_plans_working_gif) <!-- Add link to future improvements working GIF -->
-
----
 
 ## 🛠️ Technologies Used
 
