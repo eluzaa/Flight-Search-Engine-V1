@@ -15,7 +15,7 @@ Welcome to **Aditya's Flight Scanner**, a simple yet powerful flight search engi
 ## 🖼️ Screenshots
 
 ### 1. **Interface Preview**
-![Interface](./Images/Main) <!-- Add link to interface screenshot -->
+![Interface](./Images/Main.png) <!-- Add link to interface screenshot -->
 
 ### 2. **Further Plans: Currently working, not pushed in repo**
 ![Further Plans](./Images/GenAi.jpg) <!-- Add link to further plans/improvements screenshot -->
